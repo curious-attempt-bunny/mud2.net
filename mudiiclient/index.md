@@ -5,7 +5,7 @@ title: Mudiiclient
 
 # What is this?
 
-Mudiiclient is a MUD client specifically tailored to MUD2. Havoc has been maintaining this client since 2000. So it's super robust, blazingly fast, and has a streamlined interface that's entirely driven by the keyboard.
+Mudiiclient is a MUD client specifically tailored to MUD2. It's super robust, blazingly fast, and has a streamlined interface that's entirely driven by the keyboard.
 
 # Installation
 
