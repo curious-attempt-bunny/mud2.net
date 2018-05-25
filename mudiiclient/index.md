@@ -9,14 +9,17 @@ Mudiiclient is a MUD client specifically tailored to MUD2. It's super robust, bl
 
 # Installation
 
-(Sorry, these instructions are rather technical)
-
-1. Ensure you have [Java](https://www.java.com/en/) installed. (In a command window and enter `java -version`).
+1. Ensure you have [Java](https://www.java.com/en/) installed.
 2. Download [mudiiclient.jar](mudiiclient.jar).
+3. Locate your mudiiclient.jar on your computer and move it to it's own directory.
 
 # Starting mudiiclient
 
-In a command window and enter `java -jar mudiiclient.jar`.
+Double click mudiiclient.jar to start it. If that doesn't work, then sorry, this gets a bit technical. You can try these steps:
+
+1. Open a command window ([Windows](https://www.google.com/search?q=how%20to%20open%20a%20command%20prompt%20in%20windows), [Mac](https://www.google.com/search?q=how%20to%20open%20a%20command%20prompt%20on%20mac)).
+2. Navigate to the directory you placed mudiiclient.jar ([Windows](https://www.google.com/search?hl=en&q=how%20to%20change%20directories%20in%20command%20prompt%20windows), [Mac](https://www.google.com/search?q=how%20to%20change%20directories%20in%20terminal mac).
+3. Enter the command `java -jar mudiiclient.jar`. If this says something like "java: command not found" you may not have Java installed.
 
 # Usage
 
