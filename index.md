@@ -1,1 +1,2 @@
-## Got mudiiclient?
+## Welcome to mud2.net!
+
