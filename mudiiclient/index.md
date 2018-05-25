@@ -5,7 +5,7 @@ title: Mudiiclient
 
 # What is this?
 
-Mudiiclient is a MUD client specifically tailored to MUD2. Havoc has been maintaining this client since 2000. So it's super robust and blazingly fast, with an interface that's entirely driven by the keyboard and streamlined for super productive resets.
+Mudiiclient is a MUD client specifically tailored to MUD2. Havoc has been maintaining this client since 2000. So it's super robust and blazingly fast, with an interface that's entirely driven by the keyboard, and streamlined for super productive resets.
 
 # Installation
 
@@ -24,7 +24,7 @@ The first thing you'll see is a login screen:
 
 ![](revised_login_screen.png)
 
-* If you want to play as a guest select "mudguest" as the system user.
+* If you want to play as a guest select "mudguest" as the System User.
 * Enter your Account ID and Password if you're playing using an account.
-* Wizzes can change the System User and enter a system password.
+* Wizzes can change the System User and enter a System Password.
 
