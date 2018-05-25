@@ -2,6 +2,7 @@
 layout: page
 title: Mudiiclient
 ---
+
 # What is this?
 
 Mudiiclient is a MUD client specifically tailored to MUD2. Havoc has been maintaining this client since 2000. So it's super robust and blazingly fast, with an interface that's entirely driven by the keyboard and streamlined for super productive resets.
@@ -12,7 +13,10 @@ Mudiiclient is a MUD client specifically tailored to MUD2. Havoc has been mainta
 
 1. Ensure you have [Java](https://www.java.com/en/) installed. (In a command window and enter `java -version`).
 2. Download [mudiiclient.jar](mudiiclient.jar).
-3. In a command window and enter `java -jar mudiiclient.jar`.
+
+# Starting mudiiclient
+
+In a command window and enter `java -jar mudiiclient.jar`.
 
 # Usage
 
