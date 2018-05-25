@@ -11,7 +11,7 @@ Mudiiclient is a MUD client specifically tailored to MUD2. Havoc has been mainta
 (Sorry, these instructions are rather technical)
 
 1. Ensure you have [Java](https://www.java.com/en/) installed. (In a command window and enter `java -version`).
-2. Download [mudiiclient.jar](mudiiclient.jar) installed.
+2. Download [mudiiclient.jar](mudiiclient.jar).
 3. In a command window and enter `java -jar mudiiclient.jar`.
 
 # Usage
