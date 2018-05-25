@@ -10,9 +10,9 @@ Mudiiclient is a MUD client specifically tailored to MUD2. Havoc has been mainta
 
 (Sorry, these instructions are rather technical)
 
-1. Ensure you have [Java](https://www.java.com/en/) installed. (Open a command window and enter `java -version`.)
+1. Ensure you have [Java](https://www.java.com/en/) installed. (In a command window and enter `java -version`).
 2. Download [mudiiclient.jar](mudiiclient.jar) installed.
-3. Open a command window and enter `java -jar mudiiclient.jar`.
+3. In a command window and enter `java -jar mudiiclient.jar`.
 
 # Usage
 
@@ -22,6 +22,5 @@ The first thing you'll see is a login screen:
 
 * If you want to play as a guest select "mudguest" as the system user.
 * Enter your Account ID and Password if you're playing using an account.
-* Your choices will be recorded so that next time you play you can quickly hit Enter to get going.
 * Wizzes can change the System User and enter a system password.
 
