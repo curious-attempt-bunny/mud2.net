@@ -31,21 +31,25 @@ I didn't pay for a code-signing license for Windows, so Windows is going to warn
 
 To get past it you need to click "More Info" and then click the "Run anyway" button.
 
+Success! The rest should be a familiar installation process. Once complete you'll have "mudiiclient" available via your Windows start menu.
+
 ## Mac OSX installation notes
 
 I didn't pay for a code-signing license for Mac OSX, so OSX is going to warn you that the installer is dangerous. On Mac High Sierra you'll see a warning like this:
 
 ![](osx-warning.png)
 
-Click Okay to the warning, and the from the Apple menu on the top left of the screen, select "System Preferences". You'll see something like this:
+Click "OK" to the warning, and the from the Apple menu on the top left of the screen, select "System Preferences". You'll see something like this:
 
-![](osx-system-prefernces.png)
+![](osx-system-preferences.png)
 
 Click "Security & Privacy". You'll see something like this:
 
 ![](osx-security-settings.png)
 
 Click the "Open Anyway" button.
+
+Success! The rest should be a familiar installation process. Once complete you'll have "mudiiclient" in your Applications folder. To quickly run it use Spotlight (command key + space bar) and type in "mudiiclient" and hit ENTER.
 
 # Usage
 
