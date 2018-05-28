@@ -9,25 +9,49 @@ Mudiiclient is a MUD client specifically tailored to MUD2. It's super robust, bl
 
 # Installation
 
-1. Ensure you have [Java](https://www.java.com/en/) installed.
-2. Download [mudiiclient.jar](mudiiclient.jar).
-3. Locate your mudiiclient.jar on your computer and move it to it's own directory. That will keep log files and settings all in one place.
+Download the installer, and run it:
 
-# Starting mudiiclient
+* [Windows installer](mudiiclient_windows_1_6_4.exe) 43Mb (includes Java).
+* [Mac OSX installer](mudiiclient_macos_1_6_4.dmg) 74Mb (includes Java).
+* [Linux installer](mudiiclient_unix_1_6_4.sh) 2Mb (does not include Java - you need to install Oracle Java 1.6+ yourself).
 
-Double click mudiiclient.jar to start it. If that doesn't work, then sorry, this gets a bit technical. You can try these steps:
+## Windows installation notes
 
-1. Open a command window (e.g. [Windows](https://www.google.com/search?q=how%20to%20open%20a%20command%20prompt%20in%20windows), [Mac](https://www.google.com/search?q=how%20to%20open%20a%20command%20prompt%20on%20mac)).
-2. Navigate to the directory you placed mudiiclient.jar (e.g. [Windows](https://www.google.com/search?hl=en&q=how%20to%20change%20directories%20in%20command%20prompt%20windows), [Mac](https://www.google.com/search?q=how%20to%20change%20directories%20in%20terminal%20mac).
-3. Enter the command `java -jar mudiiclient.jar`. If this says something like "java: command not found" you may not have Java installed.
+I didn't pay for a code-signing license for Windows, so Windows is going to warn you that the installer is dangerous. On Windows 10 you'll see a warning like this:
+
+![](windows-defender-warning.png)
+
+To get past it you need to click "More Info" and the "Run anyway".
+
+## Mac OSX installation notes
+
+I didn't pay for a code-signing license for Mac OSX, so OSX is going to warn you that the installer is dangerous. On Mac High Sierra you'll see a warning like this:
+
+![](osx-warning.png)
+
+Click Okay to the warning, and the from the Apple menu on the top left of the screen, select "System Preferences". You'll see something like this:
+
+![](osx-system-prefernces.png)
+
+Click "Security & Privacy". You'll see something like this:
+
+![](osx-security-settings.png)
+
+Click the "Open Anyway" button.
 
 # Usage
 
 The first thing you'll see is a login screen:
 
-![](revised_login_screen.png)
+![](login_screen.png)
 
 * If you want to play as a guest select "mudguest" as the System User.
 * Enter your Account ID and Password if you're playing using an account.
 * Wizzes can change the System User and enter a System Password.
+
+# Kudos to Install4j
+
+Big thanks to Install4j for providing a free license for this app. Take a look, [Install4j is a multi-platform installer builder](https://www.ej-technologies.com/products/install4j/overview.html).
+
+![](https://www.ej-technologies.com/images/product_banners/install4j_small.png)
 
