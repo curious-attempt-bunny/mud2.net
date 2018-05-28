@@ -9,7 +9,7 @@ Mudiiclient is a MUD client specifically tailored to MUD2. It's super robust, bl
 
 # Installation
 
-Download the installer, and run it:
+Download the right installer for you, and then see notes below. I'm not paying fees to code sign the installer, so be ready for a ton of warnings.
 
 * [Windows installer](mudiiclient_windows_1_6_4.exe) 43Mb (includes Java).
 * [Mac OSX installer](mudiiclient_macos_1_6_4.dmg) 74Mb (includes Java).
@@ -17,11 +17,21 @@ Download the installer, and run it:
 
 ## Windows installation notes
 
+Depending on which browser you're using you may get different prompts and warnings. First, you'll be prompted whether to save or run the installer. Choose "Run". In Microsoft Edge on Windows 10, it ask something like this:
+
+![](windows-edge-download.png)
+
+Your browser will likely warning you that the installer is dangerous. You'll want to select an equivalent option to "Keep this file". Firefox will say something like:
+
+![](windows-firefox-download.png)
+
 I didn't pay for a code-signing license for Windows, so Windows is going to warn you that the installer is dangerous. On Windows 10 you'll see a warning like this:
 
 ![](windows-defender-warning.png)
 
-To get past it you need to click "More Info" and the "Run anyway".
+To get past it you need to click "More Info" and then click the "Run anyway" button.
+
+Success! The rest should be a familiar installation process. Once complete you'll have "mudiiclient" available via your Windows start menu.
 
 ## Mac OSX installation notes
 
@@ -29,15 +39,21 @@ I didn't pay for a code-signing license for Mac OSX, so OSX is going to warn you
 
 ![](osx-warning.png)
 
-Click Okay to the warning, and the from the Apple menu on the top left of the screen, select "System Preferences". You'll see something like this:
+Click "OK" to the warning, and the from the Apple menu on the top left of the screen, select "System Preferences". You'll see something like this:
 
-![](osx-system-prefernces.png)
+![](osx-system-preferences.png)
 
 Click "Security & Privacy". You'll see something like this:
 
 ![](osx-security-settings.png)
 
 Click the "Open Anyway" button.
+
+Success! The rest should be a familiar installation process. Once complete you'll have "mudiiclient" in your Applications folder. To quickly run it use Spotlight (command key + space bar) and type in "mudiiclient" and hit ENTER.
+
+## Linux installation notes
+
+I haven't tested the Linux installer. If you're using Linux I'm hoping you're comfortable with this kind of thing already. Feel free to open a PR against the <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> GitHub repo with improved installation guidance. Thanks!
 
 # Usage
 
