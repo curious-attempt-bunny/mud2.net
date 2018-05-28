@@ -17,6 +17,9 @@
       .main-content h1,.main-content h2,.main-content h3,.main-content h4,.main-content h5,.main-content h6 {
         color:#1F1D68;
       }
+      .log {
+        background-color: black;
+      }
     </style>
   </head>
   <body>
@@ -25,7 +28,9 @@
     </section>
 
     <section class="main-content">
-      {{ content }}
+      <div class="log">
+        {{ content }}
+      </div>
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
