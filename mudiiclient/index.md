@@ -19,7 +19,7 @@ Download the installer, and run it:
 
 The first thing you'll see is a login screen:
 
-![](revised_login_screen.png)
+![](login_screen.png)
 
 * If you want to play as a guest select "mudguest" as the System User.
 * Enter your Account ID and Password if you're playing using an account.
