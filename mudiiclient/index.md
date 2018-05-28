@@ -9,7 +9,7 @@ Mudiiclient is a MUD client specifically tailored to MUD2. It's super robust, bl
 
 # Installation
 
-Download the installer, and run it:
+Download the right installer for you, and then see notes below. I'm not paying fees to code sign the installer, so be ready for a ton of warnings.
 
 * [Windows installer](mudiiclient_windows_1_6_4.exe) 43Mb (includes Java).
 * [Mac OSX installer](mudiiclient_macos_1_6_4.dmg) 74Mb (includes Java).
@@ -17,11 +17,19 @@ Download the installer, and run it:
 
 ## Windows installation notes
 
+Depending on which browser you're using you may get different prompts and warnings. First, you'll be prompted whether to save or run the installer. Choose "Run". In Microsoft Edge on Windows 10, it ask something like this:
+
+![](windows-edge-download.png)
+
+Your browser will likely warning you that the installer is dangerous. You'll want to select an equivalent option to "Keep this file". Firefox will say something like:
+
+![](windows-firefox-download.png)
+
 I didn't pay for a code-signing license for Windows, so Windows is going to warn you that the installer is dangerous. On Windows 10 you'll see a warning like this:
 
 ![](windows-defender-warning.png)
 
-To get past it you need to click "More Info" and the "Run anyway".
+To get past it you need to click "More Info" and then click the "Run anyway" button.
 
 ## Mac OSX installation notes
 
