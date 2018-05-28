@@ -15,6 +15,30 @@ Download the installer, and run it:
 * [Mac OSX installer](mudiiclient_macos_1_6_4.dmg) 74Mb (includes Java).
 * [Linux installer](mudiiclient_unix_1_6_4.sh) 2Mb (does not include Java - you need to install Oracle Java 1.6+ yourself).
 
+## Windows installation notes
+
+I didn't pay for a code-signing license for Windows, so Windows is going to warn you that the installer is dangerous. On Windows 10 you'll see a warning like this:
+
+![](windows-defender-warning.png)
+
+To get past it you need to click "More Info" and the "Run anyway".
+
+## Mac OSX installation notes
+
+I didn't pay for a code-signing license for Mac OSX, so OSX is going to warn you that the installer is dangerous. On Mac High Sierra you'll see a warning like this:
+
+![](osx-warning.png)
+
+Click Okay to the warning, and the from the Apple menu on the top left of the screen, select "System Preferences". You'll see something like this:
+
+![](osx-system-prefernces.png)
+
+Click "Security & Privacy". You'll see something like this:
+
+![](osx-security-settings.png)
+
+Click the "Open Anyway" button.
+
 # Usage
 
 The first thing you'll see is a login screen:
