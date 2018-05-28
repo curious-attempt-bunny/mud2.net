@@ -51,6 +51,10 @@ Click the "Open Anyway" button.
 
 Success! The rest should be a familiar installation process. Once complete you'll have "mudiiclient" in your Applications folder. To quickly run it use Spotlight (command key + space bar) and type in "mudiiclient" and hit ENTER.
 
+## Linux installation notes
+
+I haven't tested the Linux installer. If you're using Linux I'm hoping you're comfortable with this kind of thing already. Feel free to open a PR against the <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> GitHub repo with improved installation guidance. Thanks!
+
 # Usage
 
 The first thing you'll see is a login screen:
