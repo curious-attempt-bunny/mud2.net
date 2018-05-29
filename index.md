@@ -1,5 +1,6 @@
 ---
 layout: default
+title: mud2.net
 ---
 
 ## Welcome to mud2.net!
