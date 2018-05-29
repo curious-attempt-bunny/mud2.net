@@ -16,13 +16,28 @@
       .main-content h1,.main-content h2,.main-content h3,.main-content h4,.main-content h5,.main-content h6 {
         color:#1F1D68;
       }
+      .home {
+        position: absolute;
+        top: 0.5em;
+        left: 1em;
+      }
+      .home a {
+        color: white;
+        text-decoration: none;
+      }
+      .home a:visited {
+        color: white;
+        text-decoration: none;
+      }      
     </style>
   </head>
   <body>
     <section class="page-header">
+      <div class="home"><a href="/">Home</a></div>
+      
       <h1 class="project-name">{{ page.title }}</h1>
       <a href="/mudiiclient" class="btn">Get mudiiclient</a>
-      <a href="{{ site.posts.first.url }}" class="btn">Read latest Havoc-fail</a>      
+      <a href="{{ site.posts.first.url }}" class="btn">Read latest Havoc-fail</a>
       <a href="/game-information.html" class="btn">Learn game information</a>      
       <a href="/muddledtimes/site/index.html" class="btn">Read MuddledTimes</a>
     </section>

@@ -15,22 +15,25 @@
       .main-content h1,.main-content h2,.main-content h3,.main-content h4,.main-content h5,.main-content h6 {
         color:#1F1D68;
       }
-      .home .icon {
-        width: 2em;
-        height: 2em;
-        background-image: url(home.png);
-      }
       .home {
-        position: relative;
+        position: absolute;
         top: 0.5em;
         left: 1em;
+      }
+      .home a {
+        color: white;
+        text-decoration: none;
+      }
+      .home a:visited {
+        color: white;
+        text-decoration: none;
       }
     </style>
   </head>
   <body>
-    <div class="home"><a href="/"><div class="icon"></div></a></div>
-
     <section class="page-header">
+      <div class="home"><a href="/">Home</a></div>
+
       <h1 class="project-name"><span>MUD2</span><span>.net</span></h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       <a href="/mudiiclient" class="btn">Get mudiiclient</a>

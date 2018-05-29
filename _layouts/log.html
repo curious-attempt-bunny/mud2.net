@@ -28,13 +28,29 @@
         margin-bottom: 1em;
         height: 1.5em;
       }
+      .home {
+        position: absolute;
+        top: 0.5em;
+        left: 1em;
+      }
+      .home a {
+        color: white;
+        text-decoration: none;
+      }
+      .home a:visited {
+        color: white;
+        text-decoration: none;
+      }
     </style>
   </head>
   <body>
     <section class="page-header">
+      <div class="home"><a href="/">Home</a></div>
+      
       <h1 class="project-name">{{ page.title }}</h1>
       <a href="/mudiiclient" class="btn">Get mudiiclient</a>
-      <a href="{{ site.posts.first.url }}" class="btn">Read latest Havoc-fail</a>      
+      <a href="{{ site.posts.first.url }}" class="btn">Read latest Havoc-fail</a>
+      <a href="/game-information.html" class="btn">Learn game information</a>      
       <a href="/muddledtimes/site/index.html" class="btn">Read MuddledTimes</a>
     </section>
 
