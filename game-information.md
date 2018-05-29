@@ -34,8 +34,10 @@ These rune-based ciphers (of increasing difficulty) contain some pretty interest
 
 ## Others
 
+Here are others I could find that don't clearly fit a theme:
+
 <ul>
 <li><a href="/muddledtimes/site/article.fod_IssueId_23_ArticleId_1462.html">Wolf Heroics</a></li>
 <li><a href="/muddledtimes/site/33_travel_quiz.html">Travel Quiz</a></li>
-<li><a href="/muddledtimes/site/33_object_affects_mobile.html">OBJECT affects MOBILE</li>
+<li><a href="/muddledtimes/site/33_object_affects_mobile.html">OBJECT affects MOBILE</a></li>
 </ul>
