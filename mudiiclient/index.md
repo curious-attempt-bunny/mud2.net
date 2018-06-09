@@ -11,9 +11,9 @@ Mudiiclient is a MUD client specifically tailored to MUD2. It's super robust, bl
 
 Download the right installer for you, and then see notes below. I'm not paying fees to code sign the installer, so be ready for a ton of warnings.
 
-* [Windows installer](mudiiclient_windows_1_6_4.exe) 43Mb (includes Java).
-* [Mac OSX installer](mudiiclient_macos_1_6_4.dmg) 74Mb (includes Java).
-* [Linux installer](mudiiclient_unix_1_6_4.sh) 2Mb (does not include Java - you need to install Oracle Java 1.6+ yourself).
+* [Windows installer](https://github.com/curious-attempt-bunny/mudiiclient/releases/download/v1.6.4/mudiiclient_windows_1_6_4.exe) 43Mb (includes Java).
+* [Mac OSX installer](https://github.com/curious-attempt-bunny/mudiiclient/releases/download/v1.6.4/mudiiclient_macos_1_6_4.dmg) 74Mb (includes Java).
+* [Linux installer](https://github.com/curious-attempt-bunny/mudiiclient/releases/download/v1.6.4/mudiiclient_unix_1_6_4.sh) 2Mb (does not include Java - you need to install Oracle Java 1.6+ yourself).
 
 ## Windows installation notes
 
