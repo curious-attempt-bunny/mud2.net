@@ -7,7 +7,7 @@ title: mud2.net
 
 Need a convenient way to invite others to the start of a particular reset? Look no further! In the calendar below, click a reset, and then select "copy to my calendar" (watch out: if someone triggers a mortal reset, you'll need to copy it again - so be sure to check back here closer to the time).
 
-Don't see any resets in the calendar? Don't see your timezone represented? Complain to Havoc on the mudii forum. Enjoy!
+Don't see any resets in the calendar? Don't see your timezone represented? Let Havoc know on this [mudii forum topic](http://www.mudii.co.uk/forums/viewtopic.php?topic=1535&forum=1&0). Enjoy!
 
 ### London time
 
