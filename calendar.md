@@ -18,3 +18,7 @@ Don't see any resets in the calendar? Don't see your timezone represented? Let H
 ### Pacific time
 
 <iframe src="https://calendar.google.com/calendar/b/2/embed?title=mudii.co.uk%20resets%20(public%20google%20calendar)&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=kk6ka18444imu141gfdukha0ts%40group.calendar.google.com&amp;color=%23853104&amp;ctz=America%2FVancouver" style="border-width:0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
+
+### Hawaii time
+
+<iframe src="https://calendar.google.com/calendar/b/2/embed?title=mudii.co.uk%20resets%20(public%20google%20calendar)&amp;showPrint=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=kk6ka18444imu141gfdukha0ts%40group.calendar.google.com&amp;color=%23853104&amp;ctz=Pacific%2FHonolulu" style="border-width:0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
